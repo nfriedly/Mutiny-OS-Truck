@@ -13,7 +13,7 @@ The goal of Mutiny is to design, manufacture and sell light duty electric vehicl
 1. Kit less than $19,999 USD.
 2. Kit is end-user assemblable using basic hand tools plus engine crane.
 3. Manufacturable (Revision 1.0) at Andy's Factory without a major investment in tooling. (Major = >$10K USD).
-4. We ship a driveable kit by end of Q2 2026.
+4. We ship a driveable kit by end of Q2 2027.
 5. Revision 1.0 will be an EV. Folowing revisions will consider hybrid/ICE variants.
 
 **Subjective Goals:**
